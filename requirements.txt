@@ -1,0 +1,15 @@
+pyhive[hive]
+
+google-api-python-client
+messytables
+dataconverters
+isbnlib
+odo # http://odo.pydata.org
+csvkit
+strconv
+# Classification
+tweet_classifier
+twitter-text-python
+TextBlob
+percache
+tabulate

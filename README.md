@@ -24,8 +24,8 @@ python3 rodeo.py
 
 ## Limitations
 
-Consider this a proof of concept. Extracts data from CSVs.
+Consider this a proof of concept. Extracts data from CSVs and makes it relational.
 
 
 ## License
-The source code is under MIT
+The source code is under the MIT License (This does not apply to the sample Dataset - consult the files for the corresponding license)

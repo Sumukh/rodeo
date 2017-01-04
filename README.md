@@ -29,3 +29,6 @@ Consider this a proof of concept. Extracts data from CSVs and makes it relationa
 
 ## License
 The source code is under the MIT License (This does not apply to the sample Dataset - consult the files for the corresponding license)
+
+Copyright (c) 2016 The Regents of the University of California (Regents)
+All rights reserved.
